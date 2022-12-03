@@ -8,45 +8,42 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    title: "MyArtist",
+    subtitle: "HTML and Javascript",
+    description: "This will help you search for your favorite artists.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://mitzi03.github.io/MyArtist/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    title: "Bootcamp Fitness",
+    subtitle: "MVC",
+    description: "A project that helps you to track your workouts.",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://blooming-forest-36438.herokuapp.com/login",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    title: "TourniMate",
+    subtitle: "Team Project",
+    description: "A project that helps you find and register for tournaments.",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/JamesXalis/TourniMate",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Brittany is an excellent creator with a knack for graphic design tools. I recently had the chance to work with Brittany while developing a graphic design crash course for an online instructional design school and her ability to work with such a wide variety of tools was critical to our course's success.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+    name: "Chris",
+    company: "DesignxHumanity",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
+      "Not only is Brittany an amazing facilitator she is also a great designer. I am very impressed with her drive to continually push herself to learn and grow. She is stretched herself beyond her role as a facilitator at the University of Phoenix and jumped in and created flyers, handouts, PowerPoint and participant guides for our staff! Brittany has a positive attitude and is just a joy to be around. I’m very impressed with her creativity and eye for design. In addition to that she’s volunteering her own time as a designer to DESIGNxHUMANITY. I look forward to seeing what she does in the future! ",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+    name: "Stephanie",
+    company: "UOPX",
   },
 ];
 
