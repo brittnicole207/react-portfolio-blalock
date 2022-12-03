@@ -1,5 +1,3 @@
 # react-portfolio-blalock
 
-This is the README.md for the React Portfolio.
-# react-portfolio-bblalock
-# react-portfolio-blalock
+This is the README.md for the React Portfolio for Bootcamp December 2022. 
