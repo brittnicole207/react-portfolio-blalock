@@ -1,3 +1,3 @@
 # react-portfolio-blalock
 
-This React Portfolio is for Brittany Blalock for Bootcamp December 2022. 
+This is Brittany Blalock's React Portfolio for December 2022. 
